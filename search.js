@@ -1,0 +1,1 @@
+const s=document.getElementById('search');if(s){s.addEventListener('input',e=>console.log(e.target.value));}
